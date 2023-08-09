@@ -8,6 +8,10 @@ body {
     margin: 0;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 header{
     height: 69px;
     margin: 0 10px;
